@@ -1,0 +1,24 @@
+{
+  "name": "discord-user",
+  "version": "0.0.1",
+  "description": "This is a package that allows a user to bot their Discord account. This violates Discord TOS and should only be used for educational pourposes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parkero2/discord-user.git"
+  },
+  "keywords": [
+    "discord",
+    "user",
+    "bot"
+  ],
+  "author": "parkero2",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/parkero2/discord-user/issues"
+  },
+  "homepage": "https://github.com/parkero2/discord-user#readme"
+}
